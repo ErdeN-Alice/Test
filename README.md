@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c0a020c8-05bb-4557-8299-edfd9a0fc21f)<h1 align="center">Hi there 👋, I'm Earth</h1>
+<h1 align="center">Hi there 👋, I'm Earth</h1>
 
 <p align="center">
 🎓 Energy Tech and Management | 🎯 Full Stack Dev | 🌱 Always Learning
