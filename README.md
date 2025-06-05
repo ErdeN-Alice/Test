@@ -1,23 +1,37 @@
-<h1 align="center">Hi there 👋, I'm ErdeN</h1>
+![image](https://github.com/user-attachments/assets/c0a020c8-05bb-4557-8299-edfd9a0fc21f)<h1 align="center">Hi there 👋, I'm Earth</h1>
 
 <p align="center">
-💡 Power Apps Developer | 🎮 Future Indie Game Creator | 🌱 Always Learning
+🎓 Energy Tech and Management | 🎯 Full Stack Dev | 🌱 Always Learning
 </p>
 
 ---
 
 ### 💼 About Me
-- 🎓 Graduated in **Energy & Environmental Tech**  
-- 🛠️ Current full-time role: Power Platform developer for business apps  
+- 🎓 Graduated from KMUTNB, majoring in Energy Technology and Management.
+- 🛠️ Current full-time role: Building Energy Management  
 - 🧠 Strong logical thinking, fast learner, emotionally smart  
 - 🎯 Long-term goal: Become a full-stack dev and build my own game  
 
 ---
 
-### ⚡ What I Can Do
-- ✅ Build Microsoft Power Apps + Automate business workflows  
-- ✅ Design low-code apps for inspection / operations / reporting  
-- ✅ Analyze complex processes and simplify with tech  
+### ⚡ Achievements in the role of IT.
+- ✅ Build Microsoft Power Apps + Automate workflows  
+- ✅ Design low-code apps for inspection / operations / reporting that interacts with SharePoint.
+- ✅ Portfolio Website with HTML5, CSS3
+
+---
+
+### Programing Skill
+- HTML5 - Beginner
+- CSS3 - Beginner
+- SQL - Beginner
+
+---
+
+### Future Project
+- ⚔️ 2.5D Ture-base game
+- ⚔️ Project Skeleton
+- 📲 Restaurant system app (table reservation) (payment) (food ordering) online
 
 ---
 
